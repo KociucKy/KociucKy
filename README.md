@@ -1,39 +1,44 @@
-![I am a Junior iOS Developer](https://github.com/KociucKy/KociucKy/blob/main/header.png)
+![I am a Junior iOS Developer](header.png)
+<br/><br/>
+<br/><br/>
 
-**About me 🤓**
+
+# About me 🤓
 
 Pronouns: He/His.
+-  I'm Jakub from Poland and I'm 22 years old 👦🏻  🇵🇱
+-  For over 5 years I'm an Apple fanboy 🍎
+-  I'm currently learning UIKit 👨🏻‍💻
+-  My main goal is to land a first job as a Junior iOS Developer 💼
+-  Funfact: In my free time I love to read and learn Czech language 🇨🇿
+<br/><br/>
+<br/><br/>
 
-I'm Jakub from Poland and I'm 22 years old CS student. For over 5 years I'm a big fan of all Apple products and that lead me to iOS Development. Since December 2020 I'm learning Swift and SwiftUI. In the near future I'm also going to expand my skills in UIKit. My main goal is to land a job as a Junior iOS Developer. Right now I'm working on my portfolio projects which you can check out on that profile! 😄
+# How to reach me? 📬
 
+[![Twitter Badge](https://img.shields.io/badge/-@KubaKociucki-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/KubaKociucki)](https://twitter.com/KubaKociucki)  [![Linkedin Badge](https://img.shields.io/badge/-JakubKociucki-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakub-kociucki/)  [![Mail Badge](https://img.shields.io/badge/-jakubkociucki.dev-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jakubkociucki.dev@gmail.com)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=[page.id](https://github.com/KociucKy))
+<br/><br/>
+<br/><br/>
 
+# Skills and technologies 💻
 
+![Swift](https://img.shields.io/badge/-Swift-orange?style=for-the-badge&labelColor=black&logo=swift)
+![Swift](https://img.shields.io/badge/-SwiftUI-orange?style=for-the-badge&labelColor=black&logo=swift)
+![Git](https://img.shields.io/badge/-Git-orange?style=for-the-badge&labelColor=black&logo=git)
+![Xcode](https://img.shields.io/badge/-Xcode-blue?style=for-the-badge&labelColor=black&logo=xcode)
+![iOS](https://img.shields.io/badge/-iOS-blue?style=for-the-badge&labelColor=black&label=os)
+![MacOS](https://img.shields.io/badge/-MacOS-blue?style=for-the-badge&labelColor=black&label=os)
+![MVC](https://img.shields.io/badge/-MVC-purple?style=for-the-badge&labelColor=black&label=Pattern)
+<br/><br/>
+<br/><br/>
 
-**Skills 💪🏻**
+# Github Stats 💯
 
-*Proficient:*
-🍎 Swift
-🍎 SwiftUI
-📱 iOS
-🅧 Xcode
-🌳 Git
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KociucKy&count_private=true&hide=stars,issues,contribs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<br/><br/>
+<br/><br/>
 
-
-*Familiar:*
-🍎 UIKit
-💻 HTML/CSS
-🐍 Python
-
-
-
-
-**Stats 💯**
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KociucKy&count_private=true&show_icons=true&?theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-**Socials 📲**
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KociucKy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/jakub-kociucki/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/KubaKociucki)  
+# Coding Stats 👨🏻‍💻
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
