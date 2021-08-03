@@ -9,7 +9,7 @@ Pronouns: He/His.
 -  For over 5 years I'm an Apple fanboy 🍎
 -  I'm currently learning UIKit 👨🏻‍💻
 -  My main goal is to land a first job as a Junior iOS Developer 💼
--  Funfact: In my free time I love to read and learn Czech language 🇨🇿
+-  Funfact: In my free time I love to read, watch football and learn Czech language 🇨🇿
 <br/><br/>
 
 # How to reach me? 📬
