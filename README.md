@@ -21,7 +21,9 @@ Pronouns: He/His.
 # Skills and technologies 💻
 
 ![Swift](https://img.shields.io/badge/-Swift-orange?style=for-the-badge&labelColor=black&logo=swift)
+![Swift](https://img.shields.io/badge/-UIKit-orange?style=for-the-badge&labelColor=black&logo=swift)
 ![Swift](https://img.shields.io/badge/-SwiftUI-orange?style=for-the-badge&labelColor=black&logo=swift)
+![Cocoa](https://img.shields.io/badge/-CocoaPods-orange?style=for-the-badge&labelColor=black&logo=cocoapods)
 ![Git](https://img.shields.io/badge/-Git-orange?style=for-the-badge&labelColor=black&logo=git)
 ![Xcode](https://img.shields.io/badge/-Xcode-blue?style=for-the-badge&labelColor=black&logo=xcode)
 ![iOS](https://img.shields.io/badge/-iOS-blue?style=for-the-badge&labelColor=black&label=os)
