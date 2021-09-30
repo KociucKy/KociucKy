@@ -36,12 +36,3 @@ Pronouns: He/His.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KociucKy&count_private=true&hide=stars,issues,contribs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <br/><br/>
 
-# Coding Stats 👨🏻‍💻
-<!--START_SECTION:waka-->
-```text
-Swift      2 hrs 27 mins   ██████████████████████░░░   88.54 % 
-YAML       8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Markdown   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-XML        4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-```
-<!--END_SECTION:waka-->
