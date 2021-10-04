@@ -7,7 +7,7 @@
 Pronouns: He/His.
 -  I'm Jakub from Poland and I'm 22 years old 👦🏻  🇵🇱
 -  For over 5 years I'm an Apple fanboy 🍎
--  I'm currently learning UIKit 👨🏻‍💻
+-  I'm currently learning SwiftUI 👨🏻‍💻
 -  My main goal is to land a first job as a Junior iOS Developer 💼
 -  Funfact: In my free time I love to read, watch football and learn Czech language 🇨🇿
 <br/><br/>
