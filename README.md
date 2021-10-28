@@ -29,6 +29,7 @@ Pronouns: He/His.
 ![iOS](https://img.shields.io/badge/-iOS-blue?style=for-the-badge&labelColor=black&label=os)
 ![MacOS](https://img.shields.io/badge/-MacOS-blue?style=for-the-badge&labelColor=black&label=os)
 ![MVC](https://img.shields.io/badge/-MVC-purple?style=for-the-badge&labelColor=black&label=Pattern)
+![MVVM](https://img.shields.io/badge/-MVVM-purple?style=for-the-badge&labelColor=black&label=Pattern)
 <br/><br/>
 
 # Github Stats 💯
