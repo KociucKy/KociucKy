@@ -7,7 +7,7 @@
 Pronouns: He/His.
 -  I'm Jakub from Poland and I'm 22 years old 👦🏻  🇵🇱
 -  For over 5 years I'm an Apple fanboy 🍎
--  I'm currently learning SwiftUI 👨🏻‍💻
+-  I'm currently learning Combine 👨🏻‍💻
 -  I'm currently working for Grupa Interia.pl 💼
 -  Funfact: In my free time I love to read, watch football and learn Czech language 🇨🇿
 <br/><br/>
@@ -21,15 +21,16 @@ Pronouns: He/His.
 # Skills and technologies 💻
 
 ![Swift](https://img.shields.io/badge/-Swift-orange?style=for-the-badge&labelColor=black&logo=swift)
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-orange?style=for-the-badge&labelColor=black&logo=swift)
 ![Swift](https://img.shields.io/badge/-UIKit-orange?style=for-the-badge&labelColor=black&logo=swift)
-![Swift](https://img.shields.io/badge/-SwiftUI-orange?style=for-the-badge&labelColor=black&logo=swift)
+![CoreData](https://img.shields.io/badge/-CoreData-blue?style=for-the-badge&labelColor=black&label=persistence)
+![MVVM](https://img.shields.io/badge/-MVVM-purple?style=for-the-badge&labelColor=black&label=Pattern)
+![SPM](https://img.shields.io/badge/-SPM-blue?style=for-the-badge&labelColor=black&label=packages)
 ![Cocoa](https://img.shields.io/badge/-CocoaPods-orange?style=for-the-badge&labelColor=black&logo=cocoapods)
 ![Git](https://img.shields.io/badge/-Git-orange?style=for-the-badge&labelColor=black&logo=git)
 ![Xcode](https://img.shields.io/badge/-Xcode-blue?style=for-the-badge&labelColor=black&logo=xcode)
 ![iOS](https://img.shields.io/badge/-iOS-blue?style=for-the-badge&labelColor=black&label=os)
 ![MacOS](https://img.shields.io/badge/-MacOS-blue?style=for-the-badge&labelColor=black&label=os)
-![MVC](https://img.shields.io/badge/-MVC-purple?style=for-the-badge&labelColor=black&label=Pattern)
-![MVVM](https://img.shields.io/badge/-MVVM-purple?style=for-the-badge&labelColor=black&label=Pattern)
 <br/><br/>
 
 # Github Stats 💯
