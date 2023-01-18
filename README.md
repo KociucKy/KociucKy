@@ -14,7 +14,7 @@ Pronouns: He/His.
 
 # How to reach me? 📬
 
-[![Twitter Badge](https://img.shields.io/badge/-@KubaKociucki-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/KubaKociucki)](https://twitter.com/KubaKociucki)  [![Linkedin Badge](https://img.shields.io/badge/-JakubKociucki-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakub-kociucki/)  [![Mail Badge](https://img.shields.io/badge/-jakubkociucki.dev-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jakubkociucki.dev@gmail.com)
+ [![Mail Badge](https://img.shields.io/badge/-jakubkociucki.dev-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jakubkociucki.dev@gmail.com)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=[page.id](https://github.com/KociucKy))
 <br/><br/>
 
