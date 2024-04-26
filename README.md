@@ -5,11 +5,10 @@
 # About me 🤓
 
 Pronouns: He/His.
--  I'm Jakub from Poland and I'm 23 years old 👦🏻  🇵🇱
--  For over 7 years I'm an Apple fanboy 🍎
--  I'm currently learning Combine 👨🏻‍💻
+-  I'm Jakub from Poland and I'm 25 years old 👦🏻  🇵🇱
+-  For over 9 years I'm an Apple fanboy 🍎
 -  I'm currently working for Grupa Interia.pl 💼
--  Funfact: In my free time I love to read and watch football. I'm also an owner of 4 gorgeous cats 🐈
+-  Funfact: In my free time I love to read and watch football. I'm also an owner of 3 gorgeous cats 🐈
 <br/><br/>
 
 # How to reach me? 📬
