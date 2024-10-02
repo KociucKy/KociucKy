@@ -7,7 +7,7 @@
 Pronouns: He/His.
 -  I'm Jakub from Poland and I'm 25 years old 👦🏻  🇵🇱
 -  For over 9 years I'm an Apple fanboy 🍎
--  I'm currently working for Grupa Interia.pl 💼
+-  I'm currently working for Allegro 💼
 -  Funfact: In my free time I love to read and watch football. I'm also an owner of 3 gorgeous cats 🐈
 <br/><br/>
 
